@@ -1,0 +1,264 @@
+COACHES,AGE BEFORE,YEAR JOINED,YEAR LEFT,GRADE BEFORE,GRADE AFTER,years
+Tomasz Wiktorowski,22,2011,2018,1,8,$7
+Tomasz Wiktorowski,18,2019,2020,11,11,$1
+,,,,,,$0
+Piotr Sierzputowski,15,2016,2021,,,$5
+,,,,,,$0
+Anton Dubrov,22,2020,2021,1,1,$1
+,,,,,,$0
+Dmitry Tursunov,31,2017,2018,2,11,$1
+Dmitry Tursunov,20,2018,2020,,,$2
+Dmitry Tursunov,26,2021,2022,1,2,$1
+Dmitry Tursunov,21,2022,2022,8,8,$0
+Dmitry Tursunov,25,2022,2023,2,2,$1
+Dmitry Tursunov,26,2023,2023,2,2,$0
+,,,,,,$0
+Khalil Ibrahimov,18,2016,2018,11,2,$2
+,,,,,,$0
+Stefano Vukov,20,2019,2022,,,$3
+,,,,,,
+Brad Gilbert,24,1994,2002,1,1,$8
+Brad Gilbert,21,2003,2004,1,1,$1
+Brad Gilbert,19,2006,2007,2,2,$1
+Brad Gilbert,23,2007,2009,11,,$2
+Brad Gilbert,21,2010,2011,10,4,$1
+Brad Gilbert,25,2012,2015,3,,$3
+Brad Gilbert,19,2023,2023,3,,$0
+,,,,,,$0
+David Witt,27,2007,2018,1,4,$11
+David Witt,24,2018,2022,11,,$4
+,,,,,,$0
+Michael Joyce,18,2012,2017,11,,$5
+Michael Joyce,28,2017,2017,12,12,$0
+Michael Joyce,27,2018,2018,4,4,$0
+Michael Joyce,24,2018,2019,9,9,$1
+Michael Joyce,26,2019,2020,11,11,$1
+,,,,,,
+Bertrand Perret,28,2021,2021,,,$0
+Bertrand Perret,24,2018,2020,7,4,$2
+,,,,,,$0
+Zdeněk Kubík,14,2013,2014,,,$1
+Zdeněk Kubík,18,2019,2019,14,14,$0
+,,,,,,$0
+Tom Hill,24,2017,2018,11,4,$1
+Tom Hill,23,2018,2020,5,1,$2
+,,,,,,$0
+Thomas Johansson,22,2017,2018,6,5,$1
+Thomas Johansson,26,2018,2019,10,4,$1
+Thomas Johansson,26,2016,2020,2,2,$4
+Thomas Johansson,32,2022,2023,4,3,$1
+,,,,,,$0
+David Kotyza,18,2008,2016,5,2,$8
+David Kotyza,26,2016,2016,2,2,$0
+David Kotyza,24,2016,2017,1,1,$1
+David Kotyza,24,2020,2022,3,11,$2
+,,,,,,$0
+Stas Khmarsky,15,2013,2018,6,12,$5
+Stas Khmarsky,24,2021,2022,3,2,$1
+Stas Khmarsky,20,2022,2022,7,,$0
+,,,,,,$0
+Philippe Dehaes,21,2021,2023,10,11,$2
+Philippe Dehaes,25,2022,2023,12,,$1
+,,,,,,$0
+Vladimír Pláteník,18,2007,2009,6,3,$2
+Vladimír Pláteník,18,2015,2017,8,3,$2
+Vladimír Pláteník,21,2018,2018,4,4,$0
+,,,,,,$0
+Pere Riba,19,2021,2023,11,2,$2
+Pere Riba,19,2023,2023,1,1,$0
+Pere Riba,21,2023,2023,2,,$0
+,,,,,,$0
+Adam Peterson,26,2002,2008,2,4,$6
+Adam Peterson,23,2007,2007,5,5,$0
+Adam Peterson,17,2008,2009,15,14,$1
+Adam Peterson,18,2013,2015,4,2,$2
+,,,,,,$0
+Sergey Demekhine,26,2010,2011,1,1,$1
+Sergey Demekhine,16,2013,2023,,2,$10
+,,,,,,$0
+Jiří Vaněk,22,2014,2016,3,1,$2
+Jiří Vaněk,27,2017,2023,3,2,$6
+,,,,,,$0
+František Čermák,26,2016,2016,2,2,$0
+František Čermák,,,,,,$0
+,,,,,,$0
+Gabriel Urpí,23,2017,2021,1,2,$4
+Gabriel Urpí,28,2021,2023,,,$2
+,,,,,,$0
+Wim Fissette,26,2009,2011,2,2,$2
+Wim Fissette,24,2013,2014,2,3,$1
+Wim Fissette,23,2014,2014,1,1,$0
+Wim Fissette,26,2015,2016,3,2,$1
+Wim Fissette,26,2017,2017,1,1,$0
+Wim Fissette,30,2018,2018,1,1,$0
+Wim Fissette,23,2020,2022,1,,$2
+,,,,,,$0
+Dorian Descloix,31,2020,2021,2,3,$1
+Dorian Descloix,29,2022,2022,11,11,$0
+Dorian Descloix,20,2020,2023,3,11,$3
+,,,,,,$0
+Sam Sumyk,23,2007,2009,3,1,$2
+Sam Sumyk,16,2010,2015,1,3,$5
+Sam Sumyk,21,2015,2015,5,5,$0
+Sam Sumyk,22,2015,2019,1,4,$4
+Sam Sumyk,28,2019,2020,3,3,$1
+Sam Sumyk,24,2020,2022,4,7,$2
+,,,,,,$0
+Raemon Sluiter,24,2015,2019,11,1,$4
+Raemon Sluiter,25,2021,2022,7,10,$1
+Raemon Sluiter,29,2023,2023,3,,$0
+,,,,,,$0
+Andis Juška,27,2021,2022,2,12,$1
+Andis Juška,21,2022,2023,3,13,$1
+,,,,,,$0
+Nikola Horvat,17,2004,2006,13,11,$2
+Nikola Horvat,18,2006,2007,11,15,$1
+Nikola Horvat,22,2006,2008,1,4,$2
+Nikola Horvat,20,2016,2017,5,5,$1
+Nikola Horvat,20,2016,2017,11,6,$1
+,,,,,,$0
+Conchita Martinez,24,2017,2017,1,1,$0
+Conchita Martinez,26,2019,2022,4,,$3
+Conchita Martinez,26,2018,2019,1,1,$1
+,,,,,,$0
+Igor Andreev,20,2021,2023,,,$2
+,,,,,,$0
+Sascha Bajin,20,2017,2019,7,1,$2
+Sascha Bajin,26,2019,2019,4,4,$0
+Sascha Bajin,19,2019,2020,3,3,$1
+Sascha Bajin,28,2020,2023,1,4,$3
+,,,,,,$0
+Michael Geserer,18,2001,2006,,6,$5
+Michael Geserer,,2007,2009,4,3,$2
+Michael Geserer,27,2015,2019,5,3,$4
+Michael Geserer,24,2019,2021,6,3,$2
+Michael Geserer,30,2021,2023,6,4,$2
+,,,,,,$0
+Kamau Murray,22,2015,2019,3,3,$4
+Kamau Murray,26,2019,2019,8,8,$0
+Kamau Murray,26,2019,2021,3,7,$2
+,,,,,,$0
+Thomas Högstedt,26,2008,2010,,,$2
+Thomas Högstedt,23,2010,2013,2,1,$3
+Thomas Högstedt,21,2014,2014,4,4,$0
+Thomas Högstedt,24,2014,2014,1,1,$0
+Thomas Högstedt,24,2015,2015,1,1,$0
+Thomas Högstedt,21,2015,2016,5,5,$1
+Thomas Högstedt,21,2016,2016,1,1,$0
+Thomas Högstedt,22,2016,2017,5,9,$1
+Thomas Högstedt,30,2017,2019,6,11,$2
+Thomas Högstedt,29,2020,2020,2,2,$0
+Thomas Högstedt,23,2020,2020,5,5,$0
+,,,,,,$0
+Eric Hechtman,41,2022,2022,,,$0
+Eric Hechtman,42,2022,2023,,14,$1
+,,,,,,$0
+Guillermo Cañas,32,2017,2017,11,11,$0
+Guillermo Cañas,28,2022,2023,5,7,$1
+,,,,,,$0
+Juan Todero,,,,,,$0
+Jim Madrigal,,,,,,$0
+Dieter Kindlmann,,,,,,$0
+Jesse Levine,,,,,,$0
+Anton Korchevskyi,,,,,,$0
+Renzo Furlan,,,,,,$0
+Tim Nicholls,,,,,,$0
+Sergei Gennadievich Demekhine,,,,,,$0
+Andrew Bettles,,,,,,$0
+Thierry Ascione,,,,,,$0
+SÃ©bastien Mathieu,,,,,,$0
+Mark Gellard,,,,,,$0
+Adriano Albanesi,,,,,,$0
+Dmytro Brichek,,,,,,$0
+"Julian Alonso, Jorge Fernandez",,,,,,$0
+Jorge Fernandez,,,,,,$0
+"Wang Peng, Aleksandar SloviÄ‡, Miro Hrvatin",,,,,,$0
+Wang Peng,,,,,,$0
+"Talina Beiko, Sandra Zaniewska",,,,,,$0
+Oleh Kostyuk,,,,,,$0
+"Daniel VallverdÃº, Olga Savchuk",,,,,,$0
+"Rennae Stubbs,TomÃ¡Å¡ Krupa",,,,,,$0
+Gerard Solves,,,,,,$0
+Nina Bratchikova,,,,,,$0
+Natalia Kazakova,,,,,,$0
+"Alex Kenin, Michael Joyce",,,,,,$0
+Rick Macci,,,,,,$0
+Charles-Edouard Maria,,,,,,$0
+Jorge Todero,,,,,,
+Stephen Huss,,,,,,
+Tom Lockhart,,,,,,
+Darian King,,,,,,
+Sven Groeneveld,,,,,,
+Nick Saviano,,,,,,
+David Nainkin,,,,,,
+Julian Alonso,,,,,,
+Aleksandr Pavlyuchenkov,,,,,,
+Jean-René Lisnard,,,,,,
+Dmitri Siniakov,,,,,,
+Helena Sukova,,,,,,
+Tomas Kupa,,,,,,
+Victor Prezelin,,,,,,
+Alexia Dechaume,,,,,,
+Sílvia Soler Espinosa,,,,,,
+Sergio Giorgi,,,,,,
+Biljana Vesilinovic,,,,,,
+Francesco Piccari,,,,,,
+Ion Bucșa,,,,,,
+Xavier Pujo and Gerard Solves,,,,,,
+Ivo Klec,,,,,,
+Matteo Catarsi,,,,,,
+JARED JACOBS,,,,,,
+ROMAN KISLIANSKII,,,,,,
+"EMILIANO REDONDI, JUAN PABLO GUZMÃN",,,,,,
+Fausto Scolari,,,,,,
+Ann Devries,,,,,,
+Tom Baten,,,,,,
+Ladislav Simon,,,,,,
+Milan Martinec,,,,,,
+Andrzej Kobierski,,,,,,
+Mihail Kanev,,,,,,
+Konstantin Tomov,,,,,,
+Velimir Zovko,,,,,,
+Gonzalo Lopez Sanchis,,,,,,
+Martin Vilar,,,,,,
+John Williams,,,,,,
+Donald Young Sr.,,,,,,
+Zina Garrison,,,,,,
+María José Llorca Pons,,,,,,
+Patricia Tarabini,,,,,,
+Ana Alcazar,,,,,,
+Antonio Zucca,,,,,,
+Germain Gigounon,,,,,,
+Gerald Moretti,,,,,,
+Thomas Korpatsch,,,,,,
+Nikolai Fidirko,,,,,,
+Dzmitry Klimenko,,,,,,
+Michael Parks,,,,,,
+Hugo Guerriero,,,,,,
+Hynek Fruhvirt,,,,,,
+Robert Orlik,,,,,,
+Dominik Utzinger,,,,,,
+Pat Cash,,,,,,
+Cecil Mamiit,,,,,,
+Larry Mousouris,,,,,,
+Aleksandar Slovic,,,,,,
+Eiji Takeuchi,,,,,,
+Yulia Pilchikova,,,,,,
+Marcos Roy,,,,,,
+David Secker,,,,,,
+Oliver Jeunehomme,,,,,,
+Gavin Hopper,,,,,,
+Karim Perona,,,,,,
+Allen Belobrajdic,,,,,,
+Thomas Drouet,,,,,,
+Frederic Dodin,,,,,,
+Lars Christensen,,,,,,
+Patricio ZarazÃºa Ruckstuhl,,,,,,
+Blaz Kavcic,,,,,,
+Carl Maes,,,,,,
+"Zoran Krajnc, Pancho AlvariÃ±o, Carl Maes",,,,,,
+Zoran Krajnc,,,,,,
+Chris Tontz,,,,,,
+Jorge Garcia,,,,,,
+Pol Todeo,,,,,,
+Javier Martí,,,,,,
